@@ -9,7 +9,7 @@
 ## 1. RTOS
 
 | Operating System |
-|:................:|
+|:----------------:|
 | Ecos             |
 | FreeRTOS         |
 
