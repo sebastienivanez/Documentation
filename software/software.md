@@ -18,7 +18,7 @@
 
 Man pages are organized in 8 sections:
 
-| Section nbr |  Manage                                                                        |
+| Section nbr |                                     Manage                                     |
 |:-----------:|:-------------------------------------------------------------------------------|
 | man 1       | Executable programs or shell commands                                          | 
 | man 2       | System calls (functions provided by the kernel)                                | 

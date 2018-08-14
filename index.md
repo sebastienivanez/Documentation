@@ -13,3 +13,4 @@ Software
     Linux vs Unix
     Design Pattern
     Algorithm (linéaire, nlogn, n²)
+    Coding good practices
